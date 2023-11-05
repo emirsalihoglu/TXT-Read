@@ -1,0 +1,10 @@
+C:\Users\memir\source\repos\FileAdd\FileAdd\bin\Debug\FileAdd.exe.config
+C:\Users\memir\source\repos\FileAdd\FileAdd\bin\Debug\FileAdd.exe
+C:\Users\memir\source\repos\FileAdd\FileAdd\bin\Debug\FileAdd.pdb
+C:\Users\memir\source\repos\FileAdd\FileAdd\obj\Debug\FileAdd.csproj.AssemblyReference.cache
+C:\Users\memir\source\repos\FileAdd\FileAdd\obj\Debug\FileAdd.Form1.resources
+C:\Users\memir\source\repos\FileAdd\FileAdd\obj\Debug\FileAdd.Properties.Resources.resources
+C:\Users\memir\source\repos\FileAdd\FileAdd\obj\Debug\FileAdd.csproj.GenerateResource.cache
+C:\Users\memir\source\repos\FileAdd\FileAdd\obj\Debug\FileAdd.csproj.CoreCompileInputs.cache
+C:\Users\memir\source\repos\FileAdd\FileAdd\obj\Debug\FileAdd.exe
+C:\Users\memir\source\repos\FileAdd\FileAdd\obj\Debug\FileAdd.pdb
